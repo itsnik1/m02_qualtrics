@@ -49,4 +49,4 @@ In the demographics section, I changed questions 9.2 and 9.3 to be more in-line 
 
 [GitHub Repo](https://github.com/itsnik1/m02_qualtrics)
 
-[Published GitHub Pages Report](PASTE-LINK-HERE)
+[Published GitHub Pages Report](https://itsnik1.github.io/m02_qualtrics/)

@@ -1,0 +1,60 @@
+---
+title: "Qualtrics Assignment #2 – Experimentation"
+author: "Nik Sahami"
+date: today
+format:
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+---
+
+# Random Assignment and Survey Flow
+
+I used the randomizer differently than how w
+
+![Complete Survey Flow](images/survey-flow.png)
+
+Explain what the screenshot shows and how respondents are randomly
+assigned to the experimental treatments.
+
+# Q2.2 Social Media Usage Improvement
+
+Explain what the original problem was.
+
+Explain that I used the Carry Forward function so respondents can report
+their usage rate for every social media platform they selected.
+
+![Q2.2 setup](images/q22-setup.png)
+
+![Carry Forward settings](images/carry-forward.png)
+
+# Three Additional Survey Improvements
+
+## Improvement 1
+
+Q2.5 was originally a matrix table with yes/no responses and the question "Have you ever performed these activities?". I think this is a bit inaccessible, so I changed it to a multiple choice question asking "Which of the following activities have you ever performed?". This way people can select the ones they have done before and we still get a binary yes or no result.
+
+![Improvement 1](images/improvement-1.png)
+
+## Improvement 2
+
+Many questions like 4.4 had weird text formatting, so I went through and corrected all of these. This makes the survey feel more cohesive and professional instead of cobbled together. I also fixed the scale on Q4.4 because I feel like "half the time" and "most of the time" are not very helpful for data collection.
+
+![Improvement 2: BEFORE](images/improvement-2-before.png)
+
+![Improvement 2: AFTER](images/improvement-2-after.png)
+
+## Improvement 3
+
+In the demographics section, I changed questions 9.2 and 9.3 to be more in-line with the rest of the questions in this section nd the survey as a whole. This also helps with cohesiveness and professionalism.
+
+![Improvement 3: BEFORE](images/improvement-3-before.png)
+
+![Improvement 3: AFTER](images/improvement-3-after.png)
+
+# Appendix
+
+[Qualtrics Survey Link](PASTE-LINK-HERE)
+
+[Published GitHub Pages Report](PASTE-LINK-HERE)

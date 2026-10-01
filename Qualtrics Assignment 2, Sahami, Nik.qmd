@@ -11,23 +11,15 @@ format:
 
 # Random Assignment and Survey Flow
 
-I used the randomizer differently than how w
+I used the Randomizer differently than how the Word document recommended, and instead directly randomized the display logic of the two blocks. I did not use the embedded variables, and I think this way is a bit cleaner.
 
 ![Complete Survey Flow](images/survey-flow.png)
 
-Explain what the screenshot shows and how respondents are randomly
-assigned to the experimental treatments.
-
 # Q2.2 Social Media Usage Improvement
 
-Explain what the original problem was.
-
-Explain that I used the Carry Forward function so respondents can report
-their usage rate for every social media platform they selected.
+The original problem was that it couldn't collect data for each individual social media, so I used carry forward logic and a big matrix table to allow respondents to answer the question for each of the social medias they selected in the question before.
 
 ![Q2.2 setup](images/q22-setup.png)
-
-![Carry Forward settings](images/carry-forward.png)
 
 # Three Additional Survey Improvements
 
